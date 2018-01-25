@@ -8,5 +8,8 @@ function logshout (string) {
   console.log (string.upperCase);
 }
 function whisper (string) {
-  console.log (string.lowerCase)
+  console.log (string.lowerCase);
+}
+function sayHiToGrandma (string) {
+  if (string ===)
 }
